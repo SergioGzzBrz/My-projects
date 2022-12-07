@@ -12,5 +12,7 @@ It will soon include (By January 2023):
 
 Feel free to test, download and explore the documents and branches of what I've done.
 
+---
+
 If you want to contact me, my email is sergio.gzzbrz@gmail.com 
 
