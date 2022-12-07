@@ -12,4 +12,4 @@ It will soon include (By January 2023):
 
 Feel free to test, download and explore the documents and branches of what I've done.
 
-You can also find my CV in the uploaded in main. 
+You can also find my CV in main branch (this one). 
