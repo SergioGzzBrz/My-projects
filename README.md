@@ -36,7 +36,7 @@ This project was Finished in **October 2022**. Code is found on file "Volcano_ro
 Here are some results
 
 <img src="https://user-images.githubusercontent.com/114702763/206264642-d078aa98-fe0c-4ee7-acbc-fe2a78a04033.png" width="650">
-<img src="https://user-images.githubusercontent.com/114702763/206266736-4084a27f-ce8e-4267-a25e-1b9d9de6133c.gif" width="650">
+<img src="https://user-images.githubusercontent.com/114702763/206270626-5d620544-915d-4196-9996-0a66d4c9342b.gif" width="650">
 
 **Important points:**
 1. This project was created in teams, but I was in charge on writing the code.
