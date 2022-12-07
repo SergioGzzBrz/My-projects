@@ -16,8 +16,7 @@ Here are some results:
 
 <img src="https://user-images.githubusercontent.com/114702763/206223021-303b097d-b630-4a4e-8b71-302ac66bf677.png" width="650">
 <img src="https://user-images.githubusercontent.com/114702763/206223082-e9083947-5e00-42f0-ad7e-876abca9557f.png" width="650">
-<img src="https://user-images.githubusercontent.com/114702763/206270297-0e78ced5-8a5f-4fb1-ada7-09628f5f02dd.gif" width="650">
-
+<img src="https://user-images.githubusercontent.com/114702763/206271108-063b8d22-16c6-4616-bbd6-e3b58bfabef6.gif" width="650">
 
 
 **Important points:**
@@ -36,7 +35,7 @@ This project was Finished in **October 2022**. Code is found on file "Volcano_ro
 Here are some results
 
 <img src="https://user-images.githubusercontent.com/114702763/206264642-d078aa98-fe0c-4ee7-acbc-fe2a78a04033.png" width="650">
-<img src="https://user-images.githubusercontent.com/114702763/206270626-5d620544-915d-4196-9996-0a66d4c9342b.gif" width="650">
+<img src="https://user-images.githubusercontent.com/114702763/206270866-ced5af1e-6cef-4418-a250-60100987e225.gif" width="650">
 
 **Important points:**
 1. This project was created in teams, but I was in charge on writing the code.
