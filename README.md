@@ -11,3 +11,5 @@ It will soon include (By January 2023):
 - Data analysis and machine learning proyect of Amazon's search results
 
 Feel free to test, download and explore the documents and branches of what I've done.
+
+You can also find my CV in the uploaded in main. 
