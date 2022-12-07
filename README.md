@@ -31,7 +31,7 @@ Here are some results:
 
 In this project, a simulation of the trajectory of volcanic rocks was created. This was done by calculating the rock's position using Euler's method (numeric method). 
 
-This project was Finished in October 2022. Code is found on file "Volcano_rocks_simulation.mlapp".
+This project was Finished in **October 2022**. Code is found on file "Volcano_rocks_simulation.mlapp".
 
 Here are some results
 
