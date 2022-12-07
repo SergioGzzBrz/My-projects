@@ -3,7 +3,7 @@ Here are all my MATLAB proyects.
 A description of each of them is provided, as well as images to show the results. 
 
 Code can be found in this repository. 
-- The proyects were all made in spanish, **however** comments were translated to help non-spanish speakers
+- The proyects were all made in spanish, **however** comments and main text were translated to help non-spanish speakers
 - Keep in mind some variable names may still be in spanish
 
 ## F1 Car simulation (with interface)
