@@ -9,7 +9,7 @@ Code can be found in this repository.
 
 ## F1 Car simulation (with interface)
 
-In this project, the *real-time* simulation of a car movement along the racetrack was created. 
+In this project, I created a *real-time* simulation of a car movement along the racetrack. 
 
 This project was finished **November 2022**. Code is found on file "car_simulation.mlapp".
 
@@ -27,9 +27,9 @@ Here are some results:
 4. Created with MATLAB app designer
 
 
-## Volcanic rocks trajectory simulation (parabolic shot)
+## Volcanic rocks' trajectory simulation (parabolic shot)
 
-In this project, a simulation of the trajectory of volcanic rocks was created. This was done by calculating the rock's position using Euler's method (numeric method). 
+In this project, I created a simulation of the trajectory of volcanic rocks. This was done by calculating the rock's position using Euler's method (numeric method). 
 
 This project was Finished in **October 2022**. Code is found on file "Volcano_rocks_simulation.mlapp".
 
