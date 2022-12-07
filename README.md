@@ -17,7 +17,7 @@ Here are some results:
 
 <img src="https://user-images.githubusercontent.com/114702763/206223021-303b097d-b630-4a4e-8b71-302ac66bf677.png" width="650">
 <img src="https://user-images.githubusercontent.com/114702763/206223082-e9083947-5e00-42f0-ad7e-876abca9557f.png" width="650">
-<img src="https://user-images.githubusercontent.com/114702763/206271108-063b8d22-16c6-4616-bbd6-e3b58bfabef6.gif" width="650">
+<img src="https://user-images.githubusercontent.com/114702763/206292299-9e4b15b5-7591-4ab4-83e2-75a8919c3d66.gif" width="650">
 
 
 **Important points:**
