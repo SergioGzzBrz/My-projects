@@ -1,4 +1,4 @@
-# My-projects
+# My projects
 
 Hi! I'm **Sergio Eduardo González Barraza**, a software engineering student from Tec de Monterrey in México. 
 
@@ -12,7 +12,12 @@ It will soon include (By January 2023):
 
 Feel free to test, download and explore the documents and branches of what I've done.
 
----
-
 If you want to contact me, my email is sergio.gzzbrz@gmail.com 
 
+# Small preview of my works
+
+### MATLAB F1 car simulation
+<img src="https://user-images.githubusercontent.com/114702763/206292299-9e4b15b5-7591-4ab4-83e2-75a8919c3d66.gif" width="750">
+
+### MATLAB volcanic rock parabolic trajectory simulation
+<img src="https://user-images.githubusercontent.com/114702763/206270866-ced5af1e-6cef-4418-a250-60100987e225.gif" width="750">
