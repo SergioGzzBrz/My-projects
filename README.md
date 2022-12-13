@@ -1,25 +1,32 @@
-# My projects
+# Data Analysis & Machine Learning Projects
 
-updating... 
+Here are all my Data-related projects. A description of each of them is provided, as well as images to show the results.
 
-Hi! I'm **Sergio Eduardo González Barraza**, a software engineering student from Tec de Monterrey in México. 
+All the code can be found in this repository.
 
-This is my GitHub, the place where I store and showcase all the projects I've worked on related to programming. Welcome!
+## Amazon search result analysis and classification (python)
 
-This GitHub includes (for now): 
-- MATLAB School projects (in [MATLAB branch](https://github.com/SergioGzzBrz/My-proyects/tree/MATLAB)). 
+In this project I did data analysis and **trained a machine learning model to classify an amazon product wheter it was owned** (or possibly owned) **by Amazon or not**. All in python 3. 
 
-It will soon include (By January 2023):
-- Data analysis and machine learning project of Amazon's search results
+This proyect was finished **December 2022**. The database used for this proyect is named "Amazon Brands and Exclusives" and can be found in [here](https://www.kaggle.com/datasets/thedevastator/amazon-s-dominance-in-e-commerce-why-you-should). 
 
-Feel free to test, download and explore the documents and branches of what I've done.
+The project files are 2: "Data_Analysis_Amazon.ipynb" and "Machine_Learning_Amazon.ipynb", and can be found in this repository. **This documents include not only code, but details and explanations**; for a detailed analysis, please see the documents. 
 
-If you want to contact me, my email is sergio.gzzbrz@gmail.com 
+### Data Analysis
+Here are some graphics regarding the data analysis:
 
-# Small preview of my works
 
-### MATLAB F1 car simulation
-<img src="https://user-images.githubusercontent.com/114702763/206292299-9e4b15b5-7591-4ab4-83e2-75a8919c3d66.gif" width="750">
 
-### MATLAB volcanic rock parabolic trajectory simulation
-<img src="https://user-images.githubusercontent.com/114702763/206270866-ced5af1e-6cef-4418-a250-60100987e225.gif" width="750">
+Statistical test were done. Particularly, the **Mann Whitney U Test** for each pair of data to test for statistical difference. Since most of the pairs of data had a statistically significant difference, I continued with the machine learning model. _More details are found on the .ipynb file_
+
+### Machine learning
+2 models were trained using the scikit-learn library in python:
+- A **logistic regression** model with 6 features. This one reached **71% accuracy**.
+- A **neural network** model with 6 initial features and 3 hidden layers of 6 neurons each. This one reached up 75% in accuracy. 
+
+Both of these only classified between "wholly non-Amazon" products, and others, to increase the accuracy of the model. 
+
+Important notes:
+- This was an **individual project**. All the work was done by me, using the free-to-use [database](https://www.kaggle.com/datasets/thedevastator/amazon-s-dominance-in-e-commerce-why-you-should). 
+- The **objetive of this project** was to verify if it was possible to develop a classifier that could allow for more "honest" (ad-free) search resutls, as it seemed that products owned by Amazon got better placements in the results. However, only the data analysis and machine learning models were done by me. 
+- I overall think that **the results of the project were decently sucessfull**, achieven over 75% acurracy. It is clear that improvements could be made though. 
