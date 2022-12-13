@@ -1,4 +1,6 @@
-# My projects
+# updating...
+
+test
 
 Hi! I'm **Sergio Eduardo González Barraza**, a software engineering student from Tec de Monterrey in México. 
 
@@ -21,3 +23,4 @@ If you want to contact me, my email is sergio.gzzbrz@gmail.com
 
 ### MATLAB volcanic rock parabolic trajectory simulation
 <img src="https://user-images.githubusercontent.com/114702763/206270866-ced5af1e-6cef-4418-a250-60100987e225.gif" width="750">
+
