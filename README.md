@@ -1,5 +1,7 @@
 # My projects
 
+updating... 
+
 Hi! I'm **Sergio Eduardo González Barraza**, a software engineering student from Tec de Monterrey in México. 
 
 This is my GitHub, the place where I store and showcase all the projects I've worked on related to programming. Welcome!
