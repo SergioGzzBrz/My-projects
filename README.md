@@ -6,7 +6,7 @@ All the code can be found in this repository.
 
 ## Amazon search result analysis and classification (python)
 
-In this project, I did data analysis and **trained a machine learning model to classify an Amazon product whether it was owned** (or possibly owned) **by Amazon or not**. All in python 3. 
+In this project, I did data analysis and **trained a machine learning model to classify an Amazon product whether it was owned** (or possibly owned) **by Amazon or not**. All in python. 
 
 This project was finished **December 2022**. The database used for this project is named "Amazon Brands and Exclusives" and can be found in [here](https://www.kaggle.com/datasets/thedevastator/amazon-s-dominance-in-e-commerce-why-you-should). 
 
