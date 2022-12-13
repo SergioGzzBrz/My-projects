@@ -1,6 +1,4 @@
-# updating...
-
-test
+# My projects
 
 Hi! I'm **Sergio Eduardo González Barraza**, a software engineering student from Tec de Monterrey in México. 
 
